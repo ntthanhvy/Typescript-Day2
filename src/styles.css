@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: calc(18 / 1440 * 100vw);
+  
+  color: #fff;
+  line-height: calc(18 / 1440 * 100vw * 150%);
+}
+
